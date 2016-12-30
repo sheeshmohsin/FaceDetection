@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 *.pyc
 migrations/
-
+db.sqlite3
 # C extensions
 *.so
 
